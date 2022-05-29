@@ -1,6 +1,0 @@
-Hello world
-
-
-added new string
-
-added one more string
